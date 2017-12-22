@@ -1,3 +1,8 @@
+body {
+  font-family: "Helvetica", sans-serif;
+}
+
+
 element.style {}
   .hero h1 {
     font-size: 70px;
@@ -14,6 +19,10 @@ element.style {}
   h2 {
     display: block;
   }
+  p {
+  display: block;}
+
+
 
   .btn-nav {
     font-size: 18px;
@@ -26,9 +35,7 @@ text-align: center;
 color: white;
 }
 
-body {
-  font-family: "Helvetica", sans-serif;
-}
+
 
 .supporting {
   text-align: center;
@@ -36,4 +43,10 @@ body {
 
 div {
   display: block;
+}
+
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
 }
